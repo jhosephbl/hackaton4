@@ -378,3 +378,13 @@ ul{
 }
 
 /* -------------------- FOOTER --------------------------*/
+
+.icons-footer{
+    background: rgb(255, 255, 255);
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.icons-footer img{
+    width: 15px;
+}
