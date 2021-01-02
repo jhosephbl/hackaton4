@@ -160,7 +160,7 @@ ul{
 /* -------------------- SOCIOS --------------------------*/
 .socios{
     width: 100%;
-    height: 100px;
+    height: 150px;
     padding: 30px;
 }
 .socios h2{
@@ -176,8 +176,48 @@ ul{
 }
 
 .logos-socios img{
-    width: 100px;
+    width: 80px;
+    
     
 }
 
 /* -------------------- AWARDS --------------------------*/
+
+.awards{
+    width: 100%;
+    height: 350px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-awards img{
+    height: 300px;
+}
+
+.info-awards{
+    width: 300px;
+    font-size: 9pt;
+}
+
+.titulo-awards{
+   color: coral;
+}
+
+.boton-awards{
+    margin-top: 30px;
+}
+
+.boton-awards a{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 12px;
+    
+}
+
+.boton-awards a:hover{
+    color: white;
+    background:coral;
+}
