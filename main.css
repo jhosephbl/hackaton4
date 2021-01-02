@@ -27,6 +27,7 @@ li{
     justify-content: space-around;
     align-items: center;
    
+   
 }
 
 ul{
@@ -185,7 +186,7 @@ ul{
 
 .awards{
     width: 100%;
-    height: 500px;
+    height: 400px;
     
     display: flex;
     justify-content: center;
@@ -229,6 +230,7 @@ ul{
 .business{
     width: 100%;
     height: 400px;
+    margin-top: 100px;
 }
 .business h1{
     
@@ -272,4 +274,53 @@ ul{
     color: coral;
 }
 
-/* -------------------- EFFECTIVE --------------------------*/
+/* -------------------- SIMPLE--------------------------*/
+
+.simple{
+    width: 100%;
+    height: 450px;
+    font-size: 10pt;
+    background: #f5f5f5;
+    padding: 30px;
+}
+
+.simple-cards-img{
+    height: 30px;
+}
+
+.simple-parrafo{
+    text-align: center;
+}
+.simple-titulo{
+    text-align: center;
+}
+.simple-subtitulo{
+    text-align: center;
+}
+
+.simple-cards{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.key{
+    width: 230px;
+    background: coral;
+    padding: 20px;
+}
+.analize{
+    width: 230px;
+    background: white;
+    padding: 20px;
+}
+.building{
+    width: 230px;
+    background: white;
+    padding: 20px;
+}
+.report{
+    width: 230px;
+    background: white;
+    padding: 20px;
+}
